@@ -39,7 +39,7 @@
   },
   "homepage": "https://github.com/matiassingers/provisioning",
   "dependencies": {
-    "cert-downloader": "https://github.com/Icenium/cert-downloader/tarball/59e9f692c52b6fb2f7939f7afc1539ac508f3fa7",
+    "cert-downloader": "https://github.com/Icenium/cert-downloader/tarball/e7f5662672108106e5a147133507084fd2f902db",
     "simple-plist": "0.0.4"
   },
   "devDependencies": {
